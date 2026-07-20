@@ -33,4 +33,4 @@ This dashboard provides insights into:
 
 ## Dashboard Preview
 
-![Twitter Analytics Dashboard](dashboard1_ss.jpg)
+![Twitter Analytics Dashboard](dashboard1_ss.png)
